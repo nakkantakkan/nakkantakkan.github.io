@@ -1,0 +1,18 @@
+h1{
+    font-family: serif;
+}
+h4{
+    font-style: oblique;
+    border-bottom: 10px #9aadff solid;
+}
+
+h2{
+    position: relative;
+    top: 30px;
+}
+p{
+    position: relative;
+    left: 30px;
+    top: 10px;
+    max-width: 500px;
+}
