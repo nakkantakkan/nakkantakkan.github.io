@@ -1,0 +1,21 @@
+h1{
+    font-family: serif;
+}
+h2{
+    border-left: 10px #9afffa solid;
+    border-bottom: 2px #9afffa solid;
+}
+h4{
+    font-style: oblique;
+    border-bottom: 10px #9aadff solid;
+}
+p{
+    position: relative;
+    left: 30px;
+}
+button{
+    position: relative;
+    left: 30px;
+    width: 150px;
+    height: 50px;
+}
